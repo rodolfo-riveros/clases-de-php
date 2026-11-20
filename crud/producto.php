@@ -54,3 +54,5 @@ class Producto {
         return $consulta->rowCount();
     }
 }
+
+echo "Rodolfo";
